@@ -1,0 +1,18 @@
+{
+  "name": "claude-plugins",
+  "description": "Claude Code plugins by automattf",
+  "owner": {
+    "name": "automattf"
+  },
+  "plugins": [
+    {
+      "name": "automatic-episodic-memory",
+      "source": {
+        "source": "github",
+        "repo": "automattf/automatic-episodic-memory"
+      },
+      "description": "Episodic memory with automatic recall for long-running Claude Code agents",
+      "homepage": "https://github.com/automattf/automatic-episodic-memory"
+    }
+  ]
+}
