@@ -6,7 +6,7 @@ A marketplace of Claude Code plugins by [automattf](https://github.com/automattf
 
 ```
 /plugin marketplace add automattf/claude-plugins
-/plugin install <plugin-name>@claude-plugins
+/plugin install <plugin-name>@automattf-plugins
 ```
 
 ## Plugins
@@ -16,5 +16,5 @@ A marketplace of Claude Code plugins by [automattf](https://github.com/automattf
 Episodic memory with automatic recall for long-running Claude Code agents. Captures what the agent did across compaction boundaries, then surfaces the relevant memory automatically on prompts, tool calls, and turn end -- no manual logging, no manual search.
 
 ```
-/plugin install automatic-episodic-memory@claude-plugins
+/plugin install automatic-episodic-memory@automattf-plugins
 ```
